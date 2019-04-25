@@ -42,6 +42,7 @@ para poder usar el servidor, se necesitan enviar los siguientes datos en formato
 **Nota:** Recomiendo usar POSTMAN que puede ser encontrado en la siguiente liga: [POSTMAN](https://www.getpostman.com/) para poder hacer la peticion y checar como funciona la api.
 
 **Ejemplo de la peticion POST**
+
 ![](imagenes/peticion.PNG)
 
 ### Que regresa el servidor?
