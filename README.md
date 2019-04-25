@@ -41,6 +41,9 @@ para poder usar el servidor, se necesitan enviar los siguientes datos en formato
 
 **Nota:** Recomiendo usar POSTMAN que puede ser encontrado en la siguiente liga: [POSTMAN](https://www.getpostman.com/) para poder hacer la peticion y checar como funciona la api.
 
+**Ejemplo de la peticion POST**
+![](imagenes/peticion.PNG)
+
 ### Que regresa el servidor?
 
 Despues de hacer el query el servidor regresara 2 cosas: 
@@ -54,3 +57,4 @@ La  prediccion se divide en 5 elementos:
 4. result_sigmoid: el resultado del score luego de aplicar la sigmoide, este dato va de 0 a 1.
 5. label: El resultado expresado en texto, si es menor a al boundary (0.5) es 0 o no se necesita mantenimiento
 
+![](imagenes/return.PNG)
